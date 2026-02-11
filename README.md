@@ -9,7 +9,6 @@ This project is not connected to any official government portal. It is created p
 📌 Project Purpose
 
 This project was built to:
-
 Practice responsive web design
 
 Improve HTML structure skills
@@ -47,11 +46,13 @@ Clean and structured layout
 🛠 Technologies Used
 
 HTML5
-
 CSS3
-
-JavaScript (Vanilla JS)
-
+Google Maps Embed
 Google Fonts
 
-Google Maps Embed
+![Screenshot_11-2-2026_232015_127 0 0 1](https://github.com/user-attachments/assets/ea8e4ff5-1080-4a12-b665-453de478c2d8)
+
+
+![Screenshot_11-2-2026_232433_127 0 0 1](https://github.com/user-attachments/assets/040692cb-b837-4952-9350-8700d6c6688b)
+
+
